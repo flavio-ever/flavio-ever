@@ -39,4 +39,4 @@ I'm a software developer and enthisiast. The technologies i like working with St
 
 > Postgresql. MongoDB. RabbitMq.
 
-> JavaScript. Java.
+> JavaScript. TypeScript. Java.
