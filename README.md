@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Flavio Ever 👨‍💻
 
-<img src="assets/gh-header.png" alt="Banner Header">
+[![](assets/gh-header.png)](assets/gh-header.png)
 
 I'm a software developer and enthisiast. The technologies i like working with Stack (ReactJs, ReactNative and NodeJs) 🦄. My principle is the secret to success is to start before you are ready. I like to discuss design patterns, architectures, UI/UX and in my spare time talking about Elon Musk (Tesla, Starlink, SpaceX) haha
 
