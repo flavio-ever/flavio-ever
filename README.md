@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Flavio Ever 👨‍💻
 
-[1.1]: https://github.com/flavio-ever/flavio-ever/blob/master/assets/gh-header.png (Banner Header)
+<img src="https://github.com/flavio-ever/flavio-ever/blob/master/assets/gh-header.png" alt="Banner Header">
 
 I'm a software developer and enthisiast. The technologies i like working with Stack (ReactJs, ReactNative and NodeJs) 🦄. My principle is the secret to success is to start before you are ready. I like to discuss design patterns, architectures, UI/UX and in my spare time talking about Elon Musk (Tesla, Starlink, SpaceX) haha
 
