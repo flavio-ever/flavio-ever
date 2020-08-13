@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **flavio-ever/flavio-ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- section - header -->
+
+# Hi, I'm Flavio Ever 👨‍💻
+
+<img src="assets/gh-header.png" alt="Banner Header">
+
+I'm a software developer and enthisiast. The technologies i like working with Stack (ReactJs, ReactNative and NodeJs) 🦄. My principle is the secret to success is to start before you are ready. I like to discuss design patterns, architectures, UI/UX and in my spare time talking about Elon Musk (Tesla, Starlink, SpaceX) haha
+
+<!-- section - Me -->
+
+## Follow me 🌎
+
+💼 My profile <a href="https://www.linkedin.com/in/flavio-ever/">LinkedIn</a>
+
+📖 My articles <a href="https://medium.com/@flavio.ever">Medium</a>
+
+<!-- section - skills -->
+
+## I work on 💻
+
+> React.js, React Native, Microservices, AWS, Docker
+
+> Postgresql, MongoDB, RabbitMq
+
+> JavaScript, VBNET, Java
