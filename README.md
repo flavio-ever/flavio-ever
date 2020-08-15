@@ -35,8 +35,9 @@ I'm a software developer and enthisiast. The technologies i like working with St
 
 ## I work on 💻
 
-> React.js. React Native. VueJs. Microservices. AWS. Docker
+> React.js. React Native. Vue. Microservices. AWS. Docker.
 
-> Postgresql. MongoDB. RabbitMq.
+> Postgresql. MongoDB. RabbitMq. Redis.
 
-> JavaScript. TypeScript. Java.
+> JavaScript. Java.
+
