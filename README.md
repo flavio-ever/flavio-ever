@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/flavio-ever/flavio-ever/blob/master/assets/gh-header.png" alt="Banner Header">
 
-I'm a software developer and enthisiast. The technologies i like working with Stack (ReactJs, ReactNative and NodeJs) 🦄. My principle is the secret to success is to start before you are ready. I like to discuss design patterns, architectures, UI/UX and in my spare time talking about Elon Musk (Tesla, Starlink, SpaceX) with my friends...
+I'm a software developer and enthisiast. The technologies i like working with Stack (ReactJs, ReactNative and NodeJs) 🦄. My principle is the secret to success is to start before you are ready. I like to discuss design patterns, architectures, UI/UX and in my spare time I have fun playing competitive games.
 
 <!-- section - Me -->
 
@@ -35,7 +35,7 @@ I'm a software developer and enthisiast. The technologies i like working with St
 
 ## I work on 💻
 
-> React.js. React Native. Vue. Microservices. AWS. Docker.
+> React.js. React Native. Vue. Typescript. Microservices. AWS. Docker.
 
 > Postgresql. MongoDB. RabbitMq. Redis.
 
