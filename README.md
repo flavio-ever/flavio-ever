@@ -1,48 +1,67 @@
 <img src="assets/github_header.png" alt="Banner Header">
 
-I am a **Software Engineer** with experience in developing scalable systems and modern solutions. I also contribute to open source projects and participate in tech communities, supporting beginners in the field.
+# 👋 Hi there! I'm Flávio Ever
 
----
+I'm a **Full Stack Software Engineer** passionate about building scalable applications and contributing to open source. Currently diving deep into modern tech stacks and helping others through documentation and community support.
 
-## 🚀 Technologies and Skills
+## 🎯 What I'm Building With
 
-- **Frontend**: Next.js, React.js, Vue.js, Web Design, Responsiveness, and UI Performance.
-- **Backend**: Node.js, NestJS, GraphQL, REST APIs, Microservices Architecture.
-- **Cloud and DevOps**: Amazon AWS, VPS, Docker, and Cloud Service Integrations.
-- **Best Practices**: Clean Code, Design Patterns, SOLID Principles, and Automated Testing.
-- **Integrations**: VTEX, Millennium, HUB2B, and other e-commerce and ERP platforms.
-- **Others**: ERP Systems Development, Internet Banking, Time Tracking Systems, and Scalable Solutions.
+### 🚀 Modern Full Stack Stack
 
----
+- **Frontend**: Next.js 15, ShadcnUI, Tailwind CSS
+- **Backend**: Java, Spring Boot, Spring Security
+- **Database**: PostgreSQL, Prisma, TypeORM
+- **Auth**: NextAuth.js, OAuth 2.0
+- **Cloud**: AWS, Vercel, Railway
 
-## 🌟 Contributions and Technical Mentorship
+### 🛠️ MicroSaaS Toolbox
 
-- **Open Source Contributor**: I actively contribute to open source projects, providing improvements, fixes, and new features.
-- **Mentorship in Tech Communities**: I support tech communities, promoting learning and best practices for beginners and professionals transitioning into tech.
-- **Relevant Projects**: Development of critical systems, scalable solutions, and complex integrations for various industries.
+- **Payments**: Stripe, PayPal
+- **Communication**: Resend, Twilio
+- **Analytics**: PostHog, Mixpanel
+- **Storage**: AWS S3, Cloudinary, Digital Ocean
 
----
+## 💼 Professional Journey
+
+### 🏢 Enterprise Experience
+
+- Built scalable e-commerce solutions with VTEX, Millennium, and HUB2B
+- Developed ERP integrations with TOTVS and SAP
+- Implemented complex payment and shipping integrations
+- Created high-performance web applications for various industries
+
+### 🔧 Technical Expertise
+
+- **Frontend**: NextJS, React, Vue, Angular, TypeScript
+- **Backend**: Node.js, NestJS, Express
+- **DevOps**: Docker, AWS, CI/CD
+- **Data**: PostgreSQL, MongoDB, Redis
+- **Architecture**: Microservices, Event-Driven, REST/GraphQL
+
+## 🌟 Open Source & Community
+
+I believe in giving back to the community through:
+
+- 📚 Documentation improvements
+- 🐛 Bug fixes and feature implementations
+- 🎓 Technical writing and tutorials
+- 🤝 Community support and mentorship
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flavio-ever&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-ever&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=flavio-ever&theme=radical&no-frame=true&margin-w=15)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flavio-ever&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-ever&layout=compact&theme=radical)
-
----
-
-## 👀 Profile Views Counter
-
-![Profile Views Counter](https://komarev.com/ghpvc/?username=flavio-ever&color=blueviolet)
-
----
-
-## 🌍 Where to Find Me
+## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/flavio-ever/)
 - 📖 [Medium](https://medium.com/@flavio.ever)
+- 🐦 [(X) Twitter](https://twitter.com/flavioever)
+
+## 👀 Profile Views
+
+![Profile Views Counter](https://komarev.com/ghpvc/?username=flavio-ever&color=blueviolet)
