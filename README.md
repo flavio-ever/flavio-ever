@@ -1,43 +1,48 @@
-<!--### Hi there 👋
+<img src="assets/github_header.png" alt="Banner Header">
 
+I am a **Software Engineer** with experience in developing scalable systems and modern solutions. I also contribute to open source projects and participate in tech communities, supporting beginners in the field.
 
-**flavio-ever/flavio-ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Technologies and Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: Next.js, React.js, Vue.js, Web Design, Responsiveness, and UI Performance.
+- **Backend**: Node.js, NestJS, GraphQL, REST APIs, Microservices Architecture.
+- **Cloud and DevOps**: Amazon AWS, VPS, Docker, and Cloud Service Integrations.
+- **Best Practices**: Clean Code, Design Patterns, SOLID Principles, and Automated Testing.
+- **Integrations**: VTEX, Millennium, HUB2B, and other e-commerce and ERP platforms.
+- **Others**: ERP Systems Development, Internet Banking, Time Tracking Systems, and Scalable Solutions.
 
-<!-- section - header -->
+---
 
-# Hi, I'm Flavio Ever 👨‍💻
+## 🌟 Contributions and Technical Mentorship
 
-<img src="https://github.com/flavio-ever/flavio-ever/blob/master/assets/gh-header.png" alt="Banner Header">
+- **Open Source Contributor**: I actively contribute to open source projects, providing improvements, fixes, and new features.
+- **Mentorship in Tech Communities**: I support tech communities, promoting learning and best practices for beginners and professionals transitioning into tech.
+- **Relevant Projects**: Development of critical systems, scalable solutions, and complex integrations for various industries.
 
-I'm a software developer and enthisiast. The technologies i like working with Stack (ReactJs, ReactNative and NodeJs) 🦄. My principle is the secret to success is to start before you are ready. I like to discuss design patterns, architectures, UI/UX and in my spare time I have fun playing competitive games.
+---
 
-<!-- section - Me -->
+## 🏆 GitHub Trophies
 
-## Follow me 🌎
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=flavio-ever&theme=radical&no-frame=true&margin-w=15)
 
-💼 My profile <a href="https://www.linkedin.com/in/flavio-ever/">LinkedIn</a>
+---
 
-📖 My articles <a href="https://medium.com/@flavio.ever">Medium</a>
+## 📊 GitHub Stats
 
-<!-- section - skills -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flavio-ever&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-ever&layout=compact&theme=radical)
 
-## I work on 💻
+---
 
-> React.js. React Native. Vue. Typescript. Microservices. AWS. Docker.
+## 👀 Profile Views Counter
 
-> Postgresql. MongoDB. RabbitMq. Redis.
+![Profile Views Counter](https://komarev.com/ghpvc/?username=flavio-ever&color=blueviolet)
 
-> JavaScript. Java.
+---
 
+## 🌍 Where to Find Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/flavio-ever/)
+- 📖 [Medium](https://medium.com/@flavio.ever)
