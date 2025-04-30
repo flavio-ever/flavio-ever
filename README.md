@@ -22,6 +22,7 @@ I'm a **Full Stack Software Engineer** passionate about building scalable applic
 - **Auth**: NextAuth.js, OAuth 2.0
 - **Cloud**: AWS, Vercel, Railway
 - **Exploring**: Spring & Java Ecosystem
+- **AI & Data**: Studying Artificial Intelligence, Machine Learning basics, and practical applications
 
 ### 🛠️ MicroSaaS Toolbox
 
@@ -71,7 +72,7 @@ I'm a **Full Stack Software Engineer** passionate about building scalable applic
 ### 🔧 Technical Expertise
 
 <div align="center">
-  
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -110,7 +111,7 @@ I believe in giving back to the community through:
 ## 📫 Let's Connect
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-ever/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@flavio.ever)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/flavioever)
