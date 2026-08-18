@@ -1,125 +1,87 @@
-<img src="assets/github_header.png" alt="Banner Header">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050505,35:111111,70:1f1f1f,100:2e2e2e&text=FLAVIO%20EVER&fontSize=48&fontAlignY=38&fontColor=f5f5f5&desc=FULL%20STACK%20ENGINEER%20%7C%20ARCHITECTURE%20%7C%20INTEGRATIONS&descAlignY=58&animation=fadeIn" alt="Profile Header" />
+</p>
 
-# Hi there! I'm Flávio Ever
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=F5F5F5&center=true&vCenter=true&width=760&lines=Engenharia+de+software+escalavel+com+foco+em+resultado;Arquitetura+limpa%2C+performance+e+boa+experiencia+de+uso;Integracoes+modernas+para+operacoes+de+alto+volume" alt="Typing Intro" />
+</p>
 
-I'm a **Full Stack Software Engineer** passionate about building scalable applications and contributing to open source. Currently diving deep into modern tech stacks and helping others through documentation and community support.
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-0d0d0d?style=for-the-badge&logo=typescript&logoColor=f5f5f5&labelColor=050505" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0d0d0d?style=for-the-badge&logo=dependabot&logoColor=f5f5f5&labelColor=050505" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/MicroSaaS-0d0d0d?style=for-the-badge&logo=vercel&logoColor=f5f5f5&labelColor=050505" alt="MicroSaaS" />
+</p>
 
-> *Transforming ideas into elegant and scalable software, connecting businesses with modern technologies*
+## Perfil
 
-## Currently
+Sou Full Stack Engineer focado em transformar regras de negocio complexas em plataformas web escalaveis, estaveis e elegantes.
 
-- Deepening knowledge in clean architecture and microservices
-- Developing MicroSaaS solutions with Next.js 15 and NestJS
-- Contributing to open source projects in the JavaScript/TypeScript community
+## Foco atual
 
-## What I'm Building With
+- Evoluir sistemas modulares com clean architecture e design orientado a dominio.
+- Construir produtos SaaS com Next.js 15, NestJS e PostgreSQL.
+- Acelerar operacoes com integrações, automacoes e fluxos assincronos.
 
-### Modern Full Stack Stack
+## O que eu faco na pratica
 
-- **Frontend**: Next.js 15, ShadcnUI, Tailwind CSS
-- **Backend**: Node.js (NestJS, Express), API Design, Clean Architecture
-- **Database**: PostgreSQL, Prisma, TypeORM
-- **Auth**: NextAuth.js, OAuth 2.0
-- **Cloud**: AWS, Vercel, Railway
-- **Exploring**: Spring & Java Ecosystem
-- **AI & Data**: Studying Artificial Intelligence, Machine Learning basics, and practical applications
+- Arquiteto e implemento plataformas web orientadas a UX, performance e resiliencia.
+- Projeto integrações entre e-commerce, ERP, gateways de pagamento e servicos terceiros.
+- Estruturo APIs e regras de dominio para suportar alto volume com manutencao simples.
+- Modernizo legados com foco em observabilidade, testes e previsibilidade operacional.
+- Fortaleco times com documentacao tecnica, handoff e padronizacao de engenharia.
 
-### MicroSaaS Toolbox
+## Stack principal
 
-- **Payments**: Stripe, PayPal
-- **Communication**: Resend, Twilio
-- **Analytics**: PostHog, Mixpanel
-- **Storage**: AWS S3, Cloudinary, Digital Ocean
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-121212?style=flat-square&logo=typescript&logoColor=f5f5f5" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-121212?style=flat-square&logo=next.js&logoColor=f5f5f5" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-121212?style=flat-square&logo=node.js&logoColor=f5f5f5" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-121212?style=flat-square&logo=nestjs&logoColor=f5f5f5" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-121212?style=flat-square&logo=postgresql&logoColor=f5f5f5" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-121212?style=flat-square&logo=prisma&logoColor=f5f5f5" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Docker-121212?style=flat-square&logo=docker&logoColor=f5f5f5" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-121212?style=flat-square&logo=amazon-aws&logoColor=f5f5f5" alt="AWS" />
+</p>
 
-## Featured Projects
+## Projetos em destaque
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/flavio-ever/propforge">
-        <img src="https://raw.githubusercontent.com/flavio-ever/propforge/main/assets/images/propforge-logo.svg" width="100px;" alt="PropForge"/>
-        <br />
-        <b>PropForge</b>
-      </a>
-      <br />
-      <sub>A lightweight utility library for working with nested object properties and templates in TypeScript/JavaScript</sub>
-      <br />
-      <sub>TypeScript • JavaScript • NPM Package</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/flavio-ever/cursor-ai-linux-installer">
-        <img src="https://github.com/flavio-ever/cursor-ai-linux-installer/raw/main/resources/cursor.svg" width="100px;" alt="Cursor AI Linux Installer"/>
-        <br />
-        <b>Cursor AI Linux Installer</b>
-      </a>
-      <br />
-      <sub>A simple installer script for Cursor AI IDE on Linux systems with desktop integration</sub>
-      <br />
-      <sub>Bash • Linux • Automation</sub>
-    </td>
-  </tr>
-</table>
+### PropForge
+Utilitario para manipular propriedades aninhadas e templates em TypeScript/JavaScript.
 
-## Professional Journey
+- Repositorio: [flavio-ever/propforge](https://github.com/flavio-ever/propforge)
+- Valor: mais produtividade e menos edge case manual
 
-### Enterprise Experience
+### Cursor AI Linux Installer
+Instalador para Cursor AI IDE em Linux com integracao desktop.
 
-- Built scalable e-commerce solutions with VTEX, Millennium, and HUB2B
-- Developed ERP integrations with TOTVS and SAP
-- Implemented complex payment and shipping integrations
-- Created high-performance web applications for various industries
+- Repositorio: [flavio-ever/cursor-ai-linux-installer](https://github.com/flavio-ever/cursor-ai-linux-installer)
+- Valor: setup rapido e padronizado para dev environment
 
-### Technical Expertise
+## Comunidade
 
-<div align="center">
+- Melhorias de documentacao e experiencia de uso
+- Correcao de bugs e contribuicoes tecnicas
+- Compartilhamento de conhecimento com a comunidade
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+## GitHub
 
-</div>
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flavio-ever&theme=github_dark" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flavio-ever&theme=github_dark" alt="Most Commit Language" />
+</p>
 
-## Open Source & Community
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flavio-ever&theme=github_dark" alt="Profile Details" />
+</p>
 
-I believe in giving back to the community through:
+## Contato
 
-- Documentation improvements
-- Bug fixes and feature implementations
-- Technical writing and tutorials
-- Community support and mentorship
+<p align="center">
+  <a href="https://www.linkedin.com/in/flavio-ever/"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=f5f5f5&labelColor=050505" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@flavio.ever"><img src="https://img.shields.io/badge/MEDIUM-0d0d0d?style=for-the-badge&logo=medium&logoColor=f5f5f5&labelColor=050505" alt="Medium" /></a>
+  <a href="https://twitter.com/flavioever"><img src="https://img.shields.io/badge/X%20%2F%20TWITTER-0d0d0d?style=for-the-badge&logo=x&logoColor=f5f5f5&labelColor=050505" alt="X Twitter" /></a>
+</p>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavio-ever&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-ever&layout=compact&langs_count=6&theme=radical"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=flavio-ever&theme=radical&no-frame=true&margin-w=15&column=4"/>
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-ever/)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@flavio.ever)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/flavioever)
-
-</div>
-
-## 👀 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=flavio-ever&color=blueviolet"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2a2a2a,50:cfcfcf,100:2a2a2a" alt="divider" />
+</p>
