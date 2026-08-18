@@ -1,20 +1,20 @@
 <img src="assets/github_header.png" alt="Banner Header">
 
-# 👋 Hi there! I'm Flávio Ever
+# Hi there! I'm Flávio Ever
 
 I'm a **Full Stack Software Engineer** passionate about building scalable applications and contributing to open source. Currently diving deep into modern tech stacks and helping others through documentation and community support.
 
 > *Transforming ideas into elegant and scalable software, connecting businesses with modern technologies*
 
-## 🔭 Currently
+## Currently
 
-- 🌱 Deepening knowledge in clean architecture and microservices
-- 🚀 Developing MicroSaaS solutions with Next.js 15 and NestJS
-- 👨‍💻 Contributing to open source projects in the JavaScript/TypeScript community
+- Deepening knowledge in clean architecture and microservices
+- Developing MicroSaaS solutions with Next.js 15 and NestJS
+- Contributing to open source projects in the JavaScript/TypeScript community
 
-## 🎯 What I'm Building With
+## What I'm Building With
 
-### 🚀 Modern Full Stack Stack
+### Modern Full Stack Stack
 
 - **Frontend**: Next.js 15, ShadcnUI, Tailwind CSS
 - **Backend**: Node.js (NestJS, Express), API Design, Clean Architecture
@@ -24,14 +24,14 @@ I'm a **Full Stack Software Engineer** passionate about building scalable applic
 - **Exploring**: Spring & Java Ecosystem
 - **AI & Data**: Studying Artificial Intelligence, Machine Learning basics, and practical applications
 
-### 🛠️ MicroSaaS Toolbox
+### MicroSaaS Toolbox
 
 - **Payments**: Stripe, PayPal
 - **Communication**: Resend, Twilio
 - **Analytics**: PostHog, Mixpanel
 - **Storage**: AWS S3, Cloudinary, Digital Ocean
 
-## ✨ Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -60,16 +60,16 @@ I'm a **Full Stack Software Engineer** passionate about building scalable applic
   </tr>
 </table>
 
-## 💼 Professional Journey
+## Professional Journey
 
-### 🏢 Enterprise Experience
+### Enterprise Experience
 
 - Built scalable e-commerce solutions with VTEX, Millennium, and HUB2B
 - Developed ERP integrations with TOTVS and SAP
 - Implemented complex payment and shipping integrations
 - Created high-performance web applications for various industries
 
-### 🔧 Technical Expertise
+### Technical Expertise
 
 <div align="center">
 
@@ -86,14 +86,14 @@ I'm a **Full Stack Software Engineer** passionate about building scalable applic
 
 </div>
 
-## 🌟 Open Source & Community
+## Open Source & Community
 
 I believe in giving back to the community through:
 
-- 📚 Documentation improvements
-- 🐛 Bug fixes and feature implementations
-- 🎓 Technical writing and tutorials
-- 🤝 Community support and mentorship
+- Documentation improvements
+- Bug fixes and feature implementations
+- Technical writing and tutorials
+- Community support and mentorship
 
 ## 📈 GitHub Stats
 
