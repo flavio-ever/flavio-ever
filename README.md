@@ -11,4 +11,4 @@ Trabalho com desenvolvimento de APIs, interfaces e integrações entre plataform
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/flavio-ever/) · [Site](https://www.flavioever.dev/)
+[LinkedIn](https://www.linkedin.com/in/flavio-ever/)
