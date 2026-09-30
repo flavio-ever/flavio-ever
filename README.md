@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:171717,100:2e2e2e&text=FLAVIO%20EVER&fontSize=44&fontAlignY=38&fontColor=f5f5f5&desc=ENGENHARIA%20DE%20SOFTWARE%20%7C%20SISTEMAS%20WEB%20%7C%20INTEGRACOES&descAlignY=60" alt="Flavio Ever — Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:171717,100:2e2e2e&text=FLAVIO%20EVER&fontSize=44&fontAlignY=38&fontColor=f5f5f5&desc=ENGENHARIA%20DE%20SOFTWARE%20%7C%20SISTEMAS%20WEB%20%7C%20INTEGRA%C3%87%C3%95ES&descAlignY=60" alt="Flavio Ever — Software Engineer" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ No dia a dia, desenvolvo APIs e interfaces, conecto plataformas e cuido da quali
 ## Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flavio-ever&theme=github_dark" alt="Resumo de atividade no GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flavio-ever&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" alt="Resumo de atividade no GitHub" />
 </p>
 
 <p align="center">
