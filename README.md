@@ -1,14 +1,32 @@
-# Flavio Ever
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:171717,100:2e2e2e&text=FLAVIO%20EVER&fontSize=44&fontAlignY=38&fontColor=f5f5f5&desc=ENGENHARIA%20DE%20SOFTWARE%20%7C%20SISTEMAS%20WEB%20%7C%20INTEGRACOES&descAlignY=60" alt="Flavio Ever — Software Engineer" />
+</p>
 
-Engenheiro de software full stack com foco em sistemas web, integrações e arquitetura de aplicações. Gosto de transformar regras de negócio complexas em soluções claras, confiáveis e fáceis de evoluir.
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-Trabalho com desenvolvimento de APIs, interfaces e integrações entre plataformas. Tenho interesse especial em qualidade de código, desempenho, observabilidade e na colaboração que torna a manutenção mais simples para o time.
+## Sobre mim
+
+Sou engenheiro de software full stack e trabalho com sistemas web, integrações e arquitetura de aplicações. Gosto de transformar regras de negócio complexas em soluções claras, confiáveis e fáceis de evoluir.
+
+No dia a dia, desenvolvo APIs e interfaces, conecto plataformas e cuido da qualidade necessária para manter sistemas em produção. Valorizo decisões técnicas bem explicadas, código legível e colaboração entre pessoas de produto e engenharia.
 
 ## Projetos públicos
 
 - **[PropForge](https://github.com/flavio-ever/propforge)** — biblioteca para acessar propriedades aninhadas e trabalhar com templates em JavaScript e TypeScript.
 - **[Cursor AI Linux Installer](https://github.com/flavio-ever/cursor-ai-linux-installer)** — instalador para Linux com integração ao ambiente de desktop.
 
-## Contato
+## Atividade no GitHub
 
-[LinkedIn](https://www.linkedin.com/in/flavio-ever/)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flavio-ever&theme=github_dark" alt="Resumo de atividade no GitHub" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/flavio-ever/"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
