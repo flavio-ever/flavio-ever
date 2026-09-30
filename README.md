@@ -24,7 +24,7 @@ No dia a dia, desenvolvo APIs e interfaces, conecto plataformas e cuido da quali
 ## Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flavio-ever&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" alt="Resumo de atividade no GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flavio-ever&theme=github_dark" alt="Resumo de atividade no GitHub" />
 </p>
 
 <p align="center">
