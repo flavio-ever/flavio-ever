@@ -12,9 +12,9 @@
 
 ## Sobre mim
 
-Sou engenheiro de software full stack e trabalho com sistemas web, integrações e arquitetura de aplicações. Gosto de transformar regras de negócio complexas em soluções claras, confiáveis e fáceis de evoluir.
+Sou engenheiro de software full stack e trabalho na evolução de sistemas em produção, especialmente aplicações web, APIs e integrações. Gosto de entender problemas complexos, melhorar a confiabilidade dos serviços e deixar soluções mais fáceis de manter e evoluir.
 
-No dia a dia, desenvolvo APIs e interfaces, conecto plataformas e cuido da qualidade necessária para manter sistemas em produção. Valorizo decisões técnicas bem explicadas, código legível e colaboração entre pessoas de produto e engenharia.
+Valorizo decisões técnicas bem explicadas, testes, código legível e colaboração entre pessoas de produto e engenharia.
 
 ## Projetos públicos
 
