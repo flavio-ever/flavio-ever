@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-171717?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 ## Sobre mim
